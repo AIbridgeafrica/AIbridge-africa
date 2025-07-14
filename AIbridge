@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Bridge Africa</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0077ff; /* Electric Blue */
+            color: white;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #005fcc;
+            display: flex;
+            justify-content: center;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: white;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            background-color: #00cc66; /* Green */
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+        }
+        section {
+            padding: 2rem;
+            background-color: white;
+            margin: 1rem auto;
+            max-width: 900px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #ffd700; /* Gold */
+            color: #333;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AI Bridge Africa</h1>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#mission">Mission</a>
+    <a href="#programs">Programs</a>
+    <a href="#partners">Partners</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+    <h1>Grassroots Innovation for a More Innovative and Intelligent Africa</h1>
+</div>
+
+<section id="about">
+    <h2>About</h2>
+    <p>AI Bridge Africa is a grassroots initiative focused on closing the artificial intelligence gap across the continent by empowering youth and communities with access to AI education, tools, and opportunities.</p>
+</section>
+
+<section id="mission">
+    <h2>Mission</h2>
+    <p>Our mission is to build a more intelligent and equitable Africa by fostering grassroots innovation, inclusive education, and community-driven AI solutions that address local challenges.</p>
+</section>
+
+<section id="programs">
+    <h2>Programs</h2>
+    <p>We run AI literacy workshops, mentorship programs, innovation labs, and hackathons to equip young Africans with the skills and confidence to lead in the AI era.</p>
+</section>
+
+<section id="partners">
+    <h2>Partners</h2>
+    <p>We collaborate with educational institutions, tech companies, NGOs, and community leaders to expand our reach and impact across Africa.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: info@aibridgeafrica.org</p>
+    <p>Website: www.aibridgeafrica.org</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 AI Bridge Africa. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
